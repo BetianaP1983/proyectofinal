@@ -1,0 +1,170 @@
+/*font-family: 'Rubik Mono One', sans-serif;*/
+
+footer {
+    background-color: rgba(241, 153, 21, 0.959);
+    font-size: small;
+
+}
+
+
+
+h1 {
+    font-family: 'Rubik Mono One', sans-serif;
+    font-size: 120px;
+    text-align: center;
+    width: fit-content;
+    border: 0cap;
+}
+
+h2 {
+    font-family: 'Rubik Mono One', sans-serif;
+    font-size: 80px;
+    text-align: center;
+}
+
+.hero {
+    background: url(../images/central.jpg);
+    background-size: cover;
+    height: 0.5vh;
+    min-height: 600px;
+    color: rgb(240, 135, 15);
+
+}
+
+.card-body {
+
+    background-color: rgba(241, 153, 21, 0.959);
+    border-color: rgba(241, 153, 21, 0.959);
+    font-family: 'Verdana, Geneva, Tahoma, sans-serif', cursive;
+
+}
+
+
+.navbar-brand {
+    color: rgba(241, 153, 21, 0.959);
+}
+
+.nav-link {
+    color: rgba(241, 153, 21, 0.959);
+}
+
+.nav-link-page {
+    color: rgba(241, 153, 21, 0.959);
+}
+
+.nav-item {
+    color: rgba(241, 153, 21, 0.959);
+}
+
+body {
+    background-color: rgba(241, 153, 21, 0.959);
+}
+
+
+h5 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+    text-align: left;
+}
+
+h6 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    text-align: center;
+}
+
+.submit {
+    color: darkblue;
+}
+
+
+
+p {
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+
+}
+
+.modal-body {
+    background-color: rgba(241, 153, 21, 0.959);
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif, cursive;
+    image-rendering: optimizeSpeed;
+
+}
+
+.modal-header {
+    background-image: url(../images/ahumad1.jpg);
+    color: white;
+}
+
+h3 {
+    font-family: 'Rubik Mono One';
+    font-size: 25px;
+    text-align: left;
+}
+
+h4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    text-align: justify;
+}
+
+
+.lista-novedades {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.lista-novedades li {
+    margin: 4px 0;
+}
+
+.lista-novedades li a {
+    background-color: rgba(241, 153, 21, 0.959);
+    font-family: 'Rubik Mono One', cursive;
+    text-decoration: none;
+    font-size: 0.7rem;
+    color: black;
+    transition: all .2s ease-in-out;
+    display: block;
+}
+
+.lista-novedadess li a:hover {
+    color: #212529;
+    background-color: #dadada;
+}
+
+.lista-novedades li a img {
+    width: 120px;
+    height: 50px;
+    filter: grayscale();
+    transition: all .2s ease-in-out;
+    opacity: 0.7;
+}
+
+.lista-novedades li a:hover img {
+    filter: none;
+    margin-right: 1.4rem;
+    opacity: 1;
+}
+
+.mapa iframe {
+    width: 100%;
+    aspect-ratio: 1.2;
+}
+
+.p-historia {
+    font-size: larger;
+    text-align: justify;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.scroll_section {
+    scroll-margin-top: 60px;
+}
